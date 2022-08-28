@@ -1002,7 +1002,7 @@ a {transition-delay:0s;-webkit-transition-delay:0s;transition-duration:0.5s;-web
     .bc_broucher_list .bc_broucher_outer .bc_broucher_inner a i{top: 16px;}
     .bc_broucher_list .bc_broucher_outer{margin: 15px 0;}
     .bc_video_gallery_list .bc_video_outer{padding:0 0;}
-    div#bc_bank{margin-bottom: 10px;}
+    /* div#bc_bank{margin-bottom: 10px;} */
     #bc_profile .ba_profile_inner{margin-top: -30px;}
     #bc_profile .ba_profile_inner img{max-width: 160px;border: 10px solid #ebebeb;}
     .bc_profile_name_inner{float: none;width: auto;box-sizing: border-box;padding-left: 0px;padding-top: 20px;margin: 0 auto;display: table;}
